@@ -1,1 +1,701 @@
-{}
+{
+  "waze": [
+    {
+      "id": "3942625565148593463_49910135",
+      "url": "https://www.instagram.com/p/Da3BRAFDj03/",
+      "posted_at": "2026-07-16T16:00:14+00:00",
+      "caption_excerpt": "not pictured: a street that's actually flat",
+      "media_type": "carousel",
+      "like_count": 55,
+      "comment_count": 1,
+      "category": "brand/marketing",
+      "narrative": "Humor post about hilly/uneven streets, general relatable driving content.",
+      "topics": [
+        "humor",
+        "driving",
+        "relatable content"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869198+00:00"
+    },
+    {
+      "id": "3943350555132388571_49910135",
+      "url": "https://www.instagram.com/p/Da5mG_ngWTb/",
+      "posted_at": "2026-07-17T16:01:09+00:00",
+      "caption_excerpt": "send to your friend with a road trip spreadsheet, just in case",
+      "media_type": "video",
+      "like_count": 45,
+      "comment_count": 4,
+      "category": "brand/marketing",
+      "narrative": "Meme-style engagement post about over-planned road trips.",
+      "topics": [
+        "road trip",
+        "humor",
+        "meme"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869196+00:00"
+    },
+    {
+      "id": "3944075187812638865_49910135",
+      "url": "https://www.instagram.com/p/Da8K3yZASCR/",
+      "posted_at": "2026-07-18T16:00:23+00:00",
+      "caption_excerpt": "california, texas, and florida wazers: your ice cream day sidequest has arrived!",
+      "media_type": "photo",
+      "like_count": 71,
+      "comment_count": 2,
+      "category": "product update",
+      "narrative": "Waze promotes a limited-time gamified in-app icon/sidequest for National Ice Cream Day in select states.",
+      "topics": [
+        "gamification",
+        "in-app feature",
+        "seasonal promotion",
+        "ice cream day"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869194+00:00"
+    },
+    {
+      "id": "3945524626088344832_49910135",
+      "url": "https://www.instagram.com/p/DbBUb4-jT0A/",
+      "posted_at": "2026-07-20T16:00:09+00:00",
+      "caption_excerpt": "this is your sign to take the scenic route",
+      "media_type": "photo",
+      "like_count": 61,
+      "comment_count": 7,
+      "category": "brand/marketing",
+      "narrative": "Lifestyle engagement post encouraging scenic drives.",
+      "topics": [
+        "scenic driving",
+        "lifestyle"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869193+00:00"
+    },
+    {
+      "id": "3946249794079056004_49910135",
+      "url": "https://www.instagram.com/p/DbD5UeTCmCE/",
+      "posted_at": "2026-07-21T16:01:36+00:00",
+      "caption_excerpt": "gasps in spanish",
+      "media_type": "video",
+      "like_count": 15299,
+      "comment_count": 84,
+      "category": "brand/marketing",
+      "narrative": "Creator-driven humor content featuring a tagged influencer in a comedic driving-reaction bit.",
+      "topics": [
+        "creator content",
+        "humor"
+      ],
+      "people_partners": [
+        "@carliemantillajordan"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.869191+00:00"
+    },
+    {
+      "id": "3947173801281301141_49910135",
+      "url": "https://www.instagram.com/p/DbHLajEGaqV/",
+      "posted_at": "2026-07-22T22:37:07+00:00",
+      "caption_excerpt": "@halo is back on Waze! The legendary Master Chief returns with fresh nav, a brand new Warthog & Ghost.",
+      "media_type": "video",
+      "like_count": 16008,
+      "comment_count": 193,
+      "category": "partnership",
+      "narrative": "Waze relaunches its Halo-themed in-app experience (Master Chief navigation, new vehicle icons, Cortana voice) tied to the Xbox/Halo franchise.",
+      "topics": [
+        "gaming tie-in",
+        "in-app feature",
+        "Halo",
+        "navigation voice"
+      ],
+      "people_partners": [
+        "@xbox",
+        "@halo",
+        "Master Chief",
+        "Cortana"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.869189+00:00"
+    },
+    {
+      "id": "3947698958784643909_49910135",
+      "url": "https://www.instagram.com/p/DbJC0mGicNF/",
+      "posted_at": "2026-07-23T16:00:10+00:00",
+      "caption_excerpt": "tell me you need a vacation without telling me",
+      "media_type": "photo",
+      "like_count": 49,
+      "comment_count": 5,
+      "category": "brand/marketing",
+      "narrative": "Generic relatable/humor post about needing a vacation, unrelated to specific product features.",
+      "topics": [
+        "humor",
+        "vacation",
+        "relatable content"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869188+00:00"
+    },
+    {
+      "id": "3948423737779300620_49910135",
+      "url": "https://www.instagram.com/p/DbLnnhJDikM/",
+      "posted_at": "2026-07-24T16:00:10+00:00",
+      "caption_excerpt": "who's headlining your summer drive? (for better or worse)",
+      "media_type": "photo",
+      "like_count": 31,
+      "comment_count": 1,
+      "category": "brand/marketing",
+      "narrative": "Summer road-trip engagement post asking followers about their driving playlists.",
+      "topics": [
+        "summer",
+        "road trip",
+        "music",
+        "engagement"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869186+00:00"
+    },
+    {
+      "id": "3951349607780579513_49910135",
+      "url": "https://www.instagram.com/p/DbWA4h7I_i5/",
+      "posted_at": "2026-07-28T16:56:21+00:00",
+      "caption_excerpt": "dad's not gonna get you there any faster, but he can make a mean burger",
+      "media_type": "video",
+      "like_count": 48,
+      "comment_count": 8,
+      "category": "brand/marketing",
+      "narrative": "Lighthearted meme-style humor post loosely tied to dads/grilling, low engagement.",
+      "topics": [
+        "humor",
+        "meme",
+        "lifestyle"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869184+00:00"
+    },
+    {
+      "id": "3706590260706813598_49910135",
+      "url": "https://www.instagram.com/p/DNwdDQpWiae/",
+      "posted_at": "2025-08-25T16:01:03+00:00",
+      "caption_excerpt": "Saving time on your way home? PURE BLISS. Which Waze feature is your favorite for a smoother drive?",
+      "media_type": "video",
+      "like_count": 1486,
+      "comment_count": 105,
+      "category": "brand/marketing",
+      "narrative": "Generic engagement post asking followers to name their favorite Waze feature.",
+      "topics": [
+        "driving features",
+        "audience engagement"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.869181+00:00"
+    },
+    {
+      "id": "3882446962121251448_49910135",
+      "url": "https://www.instagram.com/p/DXhOPEkiBp4/",
+      "posted_at": "2026-04-24T15:16:31+00:00",
+      "caption_excerpt": "Meet a few of the incredible people behind the map.",
+      "media_type": "video",
+      "like_count": 4170,
+      "comment_count": 122,
+      "category": "community",
+      "narrative": "Waze humanizes its brand with a behind-the-scenes spotlight on team members/community voices.",
+      "topics": [
+        "team culture",
+        "community",
+        "behind the scenes"
+      ],
+      "people_partners": [
+        "@jxnbandit",
+        "@phntomsoul"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.869178+00:00"
+    },
+    {
+      "id": "3922332113261534214_49910135",
+      "url": "https://www.instagram.com/p/DZu7EaOD5wG/",
+      "posted_at": "2026-06-18T16:01:07+00:00",
+      "caption_excerpt": "Your commute just got a little more cinematic. The Minions are back on Waze.",
+      "media_type": "video",
+      "like_count": 13627,
+      "comment_count": 156,
+      "category": "partnership",
+      "narrative": "Waze ties into Illumination's \"Minions & Monsters\" movie with an in-app Loco-Motive experience ahead of the July 1 theatrical release.",
+      "topics": [
+        "movie tie-in",
+        "in-app feature",
+        "entertainment partnership"
+      ],
+      "people_partners": [
+        "Minions & Monsters (movie)",
+        "@minions"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.869163+00:00"
+    }
+  ],
+  "googlemaps": [
+    {
+      "id": "3935290916730605764_39397568049",
+      "url": "https://www.instagram.com/p/Dac9j0bjJDE/",
+      "posted_at": "2026-07-06T13:07:36+00:00",
+      "caption_excerpt": "Paris, London, Barcelona, New Orleans. @dualipa's shortlist of places where the room, food and wine list make for a perfect night.",
+      "media_type": "carousel",
+      "like_count": 20663,
+      "comment_count": 68,
+      "category": "partnership",
+      "narrative": "First installment of the sponsored Dua Lipa campaign, highlighting her favorite dinner spots across international cities as a saved Maps list.",
+      "topics": [
+        "celebrity partnership",
+        "sponsored content",
+        "curated lists",
+        "Dua Lipa",
+        "travel"
+      ],
+      "people_partners": [
+        "@dualipa",
+        "@preservationhall",
+        "@restaurantgresca",
+        "@bistrotdestournelles",
+        "@dreameryldn"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.900032+00:00"
+    },
+    {
+      "id": "3941808344239349509_39397568049",
+      "url": "https://www.instagram.com/p/Da0Hc3zDp8F/",
+      "posted_at": "2026-07-15T12:56:34+00:00",
+      "caption_excerpt": "Remedy Place. New Beverly Cinema. Damian. @dualipa's LA recs worth the traffic, now a list on @GoogleMaps.",
+      "media_type": "carousel",
+      "like_count": 7195,
+      "comment_count": 58,
+      "category": "partnership",
+      "narrative": "Continuation of the sponsored Dua Lipa campaign, featuring her Los Angeles recommendations as a curated Google Maps list.",
+      "topics": [
+        "celebrity partnership",
+        "sponsored content",
+        "curated lists",
+        "Dua Lipa",
+        "Los Angeles"
+      ],
+      "people_partners": [
+        "@dualipa",
+        "@newbeverly",
+        "@griffithobservatory",
+        "@anajakthaifood",
+        "@remedyplace"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.900030+00:00"
+    },
+    {
+      "id": "3942652040932829073_336431628",
+      "url": "https://www.instagram.com/p/Da3HSRkxSeR/",
+      "posted_at": "2026-07-16T16:54:06+00:00",
+      "caption_excerpt": "shhh my show is on",
+      "media_type": "video",
+      "like_count": 519,
+      "comment_count": 18,
+      "category": "brand/marketing",
+      "narrative": "Lighthearted meme-style engagement post unrelated to specific product features.",
+      "topics": [
+        "humor",
+        "meme"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.900029+00:00"
+    },
+    {
+      "id": "3945550718258232806_336431628",
+      "url": "https://www.instagram.com/p/DbBaXlNEb3m/",
+      "posted_at": "2026-07-20T16:51:59+00:00",
+      "caption_excerpt": "Use Ask Maps to search hyper-specific, conversational prompts and find the exact vibe you're craving.",
+      "media_type": "carousel",
+      "like_count": 285,
+      "comment_count": 10,
+      "category": "product update",
+      "narrative": "Continued promotion of \"Ask Maps\" conversational search with example weekend-planning prompts.",
+      "topics": [
+        "Ask Maps",
+        "AI search",
+        "weekend plans"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.900027+00:00"
+    },
+    {
+      "id": "3947608318021526651_39397568049",
+      "url": "https://www.instagram.com/p/DbIuNmUDOR7/",
+      "posted_at": "2026-07-23T13:00:04+00:00",
+      "caption_excerpt": "Hard Wax in Berlin. Rockers International in Kingston. Plug Seven in Melbourne. @dualipa collects vinyl wherever she goes.",
+      "media_type": "carousel",
+      "like_count": 15474,
+      "comment_count": 64,
+      "category": "partnership",
+      "narrative": "Sponsored celebrity collaboration with Dua Lipa sharing her favorite record shops around the world as a curated Google Maps list.",
+      "topics": [
+        "celebrity partnership",
+        "sponsored content",
+        "curated lists",
+        "music",
+        "Dua Lipa"
+      ],
+      "people_partners": [
+        "@dualipa"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.900025+00:00"
+    },
+    {
+      "id": "3947799299106500395_336431628",
+      "url": "https://www.instagram.com/p/DbJZovTx28r/",
+      "posted_at": "2026-07-23T19:19:54+00:00",
+      "caption_excerpt": "Word on the street is that your friendly neighborhood Spider-Man was caught in action by our Street View car.",
+      "media_type": "video",
+      "like_count": 38072,
+      "comment_count": 68,
+      "category": "partnership",
+      "narrative": "Launch of the Spider-Man Street View scavenger hunt campaign tied to the movie release.",
+      "topics": [
+        "movie tie-in",
+        "Spider-Man",
+        "Street View",
+        "scavenger hunt"
+      ],
+      "people_partners": [
+        "@spidermanmovie"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.900023+00:00"
+    },
+    {
+      "id": "3947860541318474537_336431628",
+      "url": "https://www.instagram.com/p/DbJnj7kEasp/",
+      "posted_at": "2026-07-23T21:21:12+00:00",
+      "caption_excerpt": "Good work finding Spider-Man, Webheads! Looks like he stopped by a few more locations in NYC.",
+      "media_type": "carousel",
+      "like_count": 54079,
+      "comment_count": 110,
+      "category": "partnership",
+      "narrative": "Continuation of the Spider-Man Street View scavenger hunt campaign, prompting users to find more NYC locations.",
+      "topics": [
+        "movie tie-in",
+        "Spider-Man",
+        "Street View",
+        "scavenger hunt"
+      ],
+      "people_partners": [
+        "@spidermanmovie"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.900022+00:00"
+    },
+    {
+      "id": "3950693562916662874_336431628",
+      "url": "https://www.instagram.com/p/DbTrt0iEe5a/",
+      "posted_at": "2026-07-27T19:09:54+00:00",
+      "caption_excerpt": "You successfully tracked down Spider-Man! In case you missed it, here are all the places Spidey was spotted in NYC.",
+      "media_type": "carousel",
+      "like_count": 27394,
+      "comment_count": 50,
+      "category": "partnership",
+      "narrative": "Google Maps wraps up a Spider-Man movie promotional scavenger hunt, revealing all NYC Street View locations where the character was spotted.",
+      "topics": [
+        "movie tie-in",
+        "Spider-Man",
+        "Street View",
+        "scavenger hunt",
+        "NYC"
+      ],
+      "people_partners": [
+        "@spidermanmovie"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.900020+00:00"
+    },
+    {
+      "id": "3951447533758483215_336431628",
+      "url": "https://www.instagram.com/p/DbWXJimRIsP/",
+      "posted_at": "2026-07-28T20:08:32+00:00",
+      "caption_excerpt": "burger near me open now what are you typing directly into Maps?",
+      "media_type": "video",
+      "like_count": 137,
+      "comment_count": 10,
+      "category": "brand/marketing",
+      "narrative": "Casual engagement post asking followers what they type into Maps search.",
+      "topics": [
+        "search behavior",
+        "engagement",
+        "humor"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.900015+00:00"
+    },
+    {
+      "id": "3851195764466280557_336431628",
+      "url": "https://www.instagram.com/p/DVyMiStgGht/",
+      "posted_at": "2026-03-12T12:30:33+00:00",
+      "caption_excerpt": "Google Maps will never be the same again. Now you can ask Maps anything about anywhere, no matter how specific or complex the request.",
+      "media_type": "video",
+      "like_count": 3998,
+      "comment_count": 119,
+      "category": "product update",
+      "narrative": "Follow-up promotional post showcasing example conversational queries for the new \"Ask Maps\" feature.",
+      "topics": [
+        "Ask Maps",
+        "AI search",
+        "product marketing"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.900013+00:00"
+    },
+    {
+      "id": "3852180275871246661_336431628",
+      "url": "https://www.instagram.com/p/DV1sY0aEmlF/",
+      "posted_at": "2026-03-13T21:03:15+00:00",
+      "caption_excerpt": "Driving with Google Maps is getting its biggest upgrade in a decade with our new Immersive Navigation experience.",
+      "media_type": "video",
+      "like_count": 5613,
+      "comment_count": 171,
+      "category": "product update",
+      "narrative": "Google Maps rolls out \"Immersive Navigation,\" billed as its biggest navigation upgrade in a decade, with see-through-building views and smarter turn guidance across iOS, Android, CarPlay, Android Auto and built-in cars.",
+      "topics": [
+        "Immersive Navigation",
+        "product launch",
+        "navigation UX",
+        "CarPlay",
+        "Android Auto"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.900010+00:00"
+    },
+    {
+      "id": "3864584060572492561_336431628",
+      "url": "https://www.instagram.com/p/DWhwrpHD2MR/",
+      "posted_at": "2026-03-30T23:45:42+00:00",
+      "caption_excerpt": "Your most specific \"where\" and \"when\" just met their match. Ask Maps is officially available for the US and India.",
+      "media_type": "carousel",
+      "like_count": 940,
+      "comment_count": 131,
+      "category": "product update",
+      "narrative": "Google Maps launches \"Ask Maps,\" an AI-powered natural-language search feature built on Gemini, in the US and India.",
+      "topics": [
+        "Ask Maps",
+        "Gemini AI",
+        "product launch",
+        "AI search"
+      ],
+      "people_partners": [
+        "Gemini"
+      ],
+      "first_seen_at": "2026-07-29T14:05:27.899996+00:00"
+    }
+  ],
+  "transit.app": [
+    {
+      "id": "3785354514657250681_16624728147",
+      "url": "https://www.instagram.com/p/DSIR-AbEQ15/",
+      "posted_at": "2025-12-11T16:10:44+00:00",
+      "caption_excerpt": "This year was a big one for Transit \u2014 but it's not over yet! It's time to wrap up 2025 with Year in Transit.",
+      "media_type": "carousel",
+      "like_count": 432,
+      "comment_count": 14,
+      "category": "community",
+      "narrative": "Transit launches its annual \"Year in Transit\" personalized recap feature summarizing users' 2025 ridership stats and achievements.",
+      "topics": [
+        "Year in Transit",
+        "annual recap",
+        "gamification",
+        "GO Points"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928900+00:00"
+    },
+    {
+      "id": "3839813380031308032_16624728147",
+      "url": "https://www.instagram.com/p/DVJwezIjuEA/",
+      "posted_at": "2026-02-24T19:31:31+00:00",
+      "caption_excerpt": "Transit's making sure you get the notifications you need to navigate your day, no matter when it starts.",
+      "media_type": "carousel",
+      "like_count": 165,
+      "comment_count": 4,
+      "category": "product update",
+      "narrative": "Transit promotes its \"Custom hours\" notification setting that limits disruption alerts to a user's actual commute times.",
+      "topics": [
+        "custom notifications",
+        "feature update",
+        "commute alerts"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928899+00:00"
+    },
+    {
+      "id": "3851429975082794961_16624728147",
+      "url": "https://www.instagram.com/p/DVzBygWGf_R/",
+      "posted_at": "2026-03-12T20:10:56+00:00",
+      "caption_excerpt": "Calling all crafty commuters! Transit has a treat for your next project: a guide to make your very own app icon.",
+      "media_type": "carousel",
+      "like_count": 429,
+      "comment_count": 14,
+      "category": "community",
+      "narrative": "Transit shares a DIY craft guide for making a knitted/crafted version of its app icon.",
+      "topics": [
+        "DIY",
+        "brand merchandise",
+        "community craft"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928897+00:00"
+    },
+    {
+      "id": "3855728540965243153_16624728147",
+      "url": "https://www.instagram.com/p/DWCTK3ykYkR/",
+      "posted_at": "2026-03-18T18:32:42+00:00",
+      "caption_excerpt": "Today is Transit Worker Appreciation Day, and our loving cup of public transit passion runneth over.",
+      "media_type": "video",
+      "like_count": 212,
+      "comment_count": 6,
+      "category": "community",
+      "narrative": "Transit highlights a user-driven campaign collecting 35K+ thank-you messages for public transit workers across 600+ agencies for Transit Worker Appreciation Day.",
+      "topics": [
+        "Transit Worker Appreciation Day",
+        "community engagement",
+        "public transit workers"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928895+00:00"
+    },
+    {
+      "id": "3865938259415737887_16624728147",
+      "url": "https://www.instagram.com/p/DWmkl1EESYf/",
+      "posted_at": "2026-04-01T20:36:15+00:00",
+      "caption_excerpt": "We're not foolin' ya: there's a whole team of (former) babies behind Transit. #ThisIsWho",
+      "media_type": "carousel",
+      "like_count": 340,
+      "comment_count": 12,
+      "category": "community",
+      "narrative": "Team-spotlight campaign introducing the people behind Transit as part of a \"ThisIsWho\" series.",
+      "topics": [
+        "team culture",
+        "employee spotlight"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928894+00:00"
+    },
+    {
+      "id": "3875297641400322389_16624728147",
+      "url": "https://www.instagram.com/p/DXH0qwyk0lV/",
+      "posted_at": "2026-04-14T18:32:22+00:00",
+      "caption_excerpt": "April 14 is Puffin Day and we're celebrating our favourite of the flock: our font!",
+      "media_type": "video",
+      "like_count": 225,
+      "comment_count": 8,
+      "category": "brand/marketing",
+      "narrative": "Playful brand post celebrating Puffin Day by highlighting Transit's in-app font.",
+      "topics": [
+        "brand personality",
+        "typography",
+        "puffin day"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928892+00:00"
+    },
+    {
+      "id": "3921595805293785002_16624728147",
+      "url": "https://www.instagram.com/p/DZsTpt_Mq-q/",
+      "posted_at": "2026-06-17T15:40:26+00:00",
+      "caption_excerpt": "Bonjour-cze\u015b\u0107-hi Polska. From Bia\u0142ystok to Wroc\u0142aw, Transit's got you covered.",
+      "media_type": "video",
+      "like_count": 461,
+      "comment_count": 19,
+      "category": "product update",
+      "narrative": "Transit announces expanded coverage across Poland, from Bia\u0142ystok to Wroc\u0142aw.",
+      "topics": [
+        "market expansion",
+        "Poland",
+        "coverage"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928890+00:00"
+    },
+    {
+      "id": "3942002107337512699_16624728147",
+      "url": "https://www.instagram.com/p/Da0zgfvsZb7/",
+      "posted_at": "2026-07-15T19:22:06+00:00",
+      "caption_excerpt": "Trip History is finally here, and we're brimming with bustalgia!",
+      "media_type": "video",
+      "like_count": 167,
+      "comment_count": 7,
+      "category": "product update",
+      "narrative": "Transit launches a new \"Trip History\" feature letting users track and review their past public transit journeys.",
+      "topics": [
+        "Trip History",
+        "product launch",
+        "feature announcement"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928888+00:00"
+    },
+    {
+      "id": "3946321675541921505_16624728147",
+      "url": "https://www.instagram.com/p/DbEJqfIGb7h/",
+      "posted_at": "2026-07-21T18:23:49+00:00",
+      "caption_excerpt": "Canta y no llores, football fans! The matches may be over, but Transit's got some golden stats to share with you.",
+      "media_type": "carousel",
+      "like_count": 188,
+      "comment_count": 10,
+      "category": "press/news",
+      "narrative": "Transit shares usage stats from a recent international soccer tournament, citing 4 million riders and ranking top host-city transit systems.",
+      "topics": [
+        "soccer",
+        "usage stats",
+        "public transit ridership",
+        "tournament"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928886+00:00"
+    },
+    {
+      "id": "3255673605697605020_16624728147",
+      "url": "https://www.instagram.com/p/C0ueeUkOI2c/",
+      "posted_at": "2023-12-11T20:29:19+00:00",
+      "caption_excerpt": "Cities are where we call home, with inspiration at every street corner.",
+      "media_type": "photo",
+      "like_count": 75,
+      "comment_count": 0,
+      "category": "brand/marketing",
+      "narrative": "Older brand-vision post about cities as home and sources of inspiration.",
+      "topics": [
+        "brand vision",
+        "mission statement"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928884+00:00"
+    },
+    {
+      "id": "3255673910548219788_16624728147",
+      "url": "https://www.instagram.com/p/C0ueiweu8eM/",
+      "posted_at": "2023-12-11T20:29:55+00:00",
+      "caption_excerpt": "Sure, we're not sculpting citadels out of stone blocks at Transit, but we always take the extra effort to uplift and inspire.",
+      "media_type": "photo",
+      "like_count": 130,
+      "comment_count": 1,
+      "category": "brand/marketing",
+      "narrative": "Older brand-vision post emphasizing craftsmanship and inspiration in Transit's work.",
+      "topics": [
+        "brand vision",
+        "mission statement"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928880+00:00"
+    },
+    {
+      "id": "3255674216992389393_16624728147",
+      "url": "https://www.instagram.com/p/C0uenN4OrkR/",
+      "posted_at": "2023-12-11T20:30:32+00:00",
+      "caption_excerpt": "Forget tunnels and flying cars. We don't need to reinvent the wheel \u2014 we just need to make it run more smoothly.",
+      "media_type": "photo",
+      "like_count": 151,
+      "comment_count": 11,
+      "category": "brand/marketing",
+      "narrative": "Older brand-vision post positioning Transit as focused on improving existing transit rather than futuristic tech.",
+      "topics": [
+        "brand vision",
+        "mission statement"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-29T14:05:27.928847+00:00"
+    }
+  ]
+}
