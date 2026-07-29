@@ -1,8 +1,13 @@
 {
-  "company": "Moovit",
-  "accounts": [
-    { "handle": "waze", "label": "Waze", "active": true },
-    { "handle": "googlemaps", "label": "Google Maps", "active": true },
-    { "handle": "transit.app", "label": "Transit", "active": true }
+  "brands": [
+    {
+      "brand": "Moovit",
+      "slack_channel": "moovit-watch",
+      "accounts": [
+        { "handle": "waze", "label": "Waze", "active": true },
+        { "handle": "googlemaps", "label": "Google Maps", "active": true },
+        { "handle": "transit.app", "label": "Transit", "active": true }
+      ]
+    }
   ]
 }

@@ -30,7 +30,6 @@ jobs:
           RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
           REPORT_TO_EMAIL: ${{ secrets.REPORT_TO_EMAIL }}
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-          SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
 
       # Committing here rather than asking the agent to do it — one less thing
       # that can go wrong, and the run still records what changed.

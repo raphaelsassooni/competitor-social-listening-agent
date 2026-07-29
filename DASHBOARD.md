@@ -1,10 +1,12 @@
-# Competitor Watch — Moovit
+# Competitor Watch
 
-_Tracking: Waze, Google Maps, Transit_
+_Last updated: 2026-07-29 14:45 UTC_
 
-_Last updated: 2026-07-29 14:05 UTC_
+## Moovit
 
-## Waze
+_Competitors tracked: Waze, Google Maps, Transit_
+
+### Waze
 
 **2026-07-16** — brand/marketing — Humor post about hilly/uneven streets, general relatable driving content.
 55 likes · 1 comments
@@ -70,7 +72,7 @@ Topics: movie tie-in, in-app feature, entertainment partnership
 People/partners: Minions & Monsters (movie), @minions
 [View post](https://www.instagram.com/p/DZu7EaOD5wG/)
 
-## Google Maps
+### Google Maps
 
 **2026-07-06** — partnership — First installment of the sponsored Dua Lipa campaign, highlighting her favorite dinner spots across international cities as a saved Maps list.
 20,663 likes · 68 comments
@@ -139,7 +141,7 @@ Topics: Ask Maps, Gemini AI, product launch, AI search
 People/partners: Gemini
 [View post](https://www.instagram.com/p/DWhwrpHD2MR/)
 
-## Transit
+### Transit
 
 **2025-12-11** — community — Transit launches its annual "Year in Transit" personalized recap feature summarizing users' 2025 ridership stats and achievements.
 432 likes · 14 comments

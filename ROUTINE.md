@@ -4,8 +4,12 @@ You are running inside the scheduled GitHub Actions workflow in `.github/workflo
 
 All API keys are already set as environment variables — read them from the environment, never hardcode or print them.
 
-## 1. Load the account list
-Read `data/accounts.json`. For each account with `"active": true`, do steps 2–4.
+## 1. Load the brands
+Read `data/accounts.json`. It groups accounts by brand:
+```json
+{"brands": [{"brand": "Moovit", "slack_channel": "moovit-watch", "accounts": [{"handle": "waze", "label": "Waze", "active": true}]}]}
+```
+Work through one brand at a time. Within each brand, do steps 2–5 for every account with `"active": true`.
 
 ## 2. Fetch recent posts
 Run `python3 scripts/fetch_posts.py <handle>`. This calls the ScrapeCreators API and prints the account's recent posts as JSON. If it fails for one account (private account, rate limit, API error), note the failure and move on — don't let one account's failure stop the whole run.
@@ -29,17 +33,24 @@ For each new post, build a record combining the fetched fields with your analysi
 `caption_excerpt` is your own short excerpt of the caption (first sentence or ~150 characters), not the full text — keeps the dashboard scannable. Pipe the list of new records for an account into `python3 scripts/append_posts.py <handle>` to merge them into `data/seen_posts.json`.
 
 ## 6. Rebuild the dashboard
-Run `python3 scripts/render_dashboard.py`. This regenerates `DASHBOARD.md` from the updated log — don't hand-edit that file.
+Once all brands are done, run `python3 scripts/render_dashboard.py`. This regenerates `DASHBOARD.md` from the updated log — don't hand-edit that file.
 
 ## 7. Write today's summary
-Write `data/today_summary.json` covering every active account, including ones with no new activity (see the schema documented at the top of `scripts/send_email.py`). Keep it short: one headline plus a few bullets per account with new activity, a one-line "nothing new" note otherwise.
+Write `data/today_summary.json` with one entry per brand, covering every active account within it:
+```json
+{"brands": [{"brand": "Moovit", "run_date": "2026-07-29", "has_activity": true,
+  "accounts": [{"label": "Waze", "new_post_count": 1, "headline": "...", "bullets": ["Narrative: ...", "Topics: ...", "People/partners: ...", "Type: ..."]}]}]}
+```
+Set `has_activity` to false for a brand where no account had new posts. Keep it short: one headline plus a few bullets per account with new activity.
 
 ## 8. Commit
 Commit `data/seen_posts.json` and `DASHBOARD.md` with a message like `Daily check: <date>`. Do not commit `.env` or `data/today_summary.json` (both gitignored).
 
 ## 9. Send
-Run `python3 scripts/send_email.py` and `python3 scripts/send_slack.py`. Both read `data/today_summary.json`.
+Run `python3 scripts/send_email.py` and `python3 scripts/send_slack.py`. Both read `data/today_summary.json` and handle the per-brand splitting themselves:
+- Email sends one message per brand **that has new activity**, skipping quiet brands entirely.
+- Slack posts one message per brand to that brand's own channel, **every day** — a one-line "nothing new" note when quiet.
 
 ## Notes
-- API keys and the webhook URL come from routine secrets / environment variables — never hardcode or commit them.
+- API keys come from GitHub Actions secrets / environment variables — never hardcode or commit them.
 - If every account fails to fetch (bad API key, service outage), don't stay silent and don't send a broken summary — send a short failure notice instead, so a missing day is noticed rather than assumed quiet.
