@@ -41,6 +41,8 @@ def render() -> str:
         for post in posts[:MAX_POSTS_SHOWN_PER_ACCOUNT]:
             posted_at = post.get("posted_at", "")[:10]
             lines.append(f"**{posted_at}** — {post.get('category', 'Uncategorized')} — {post.get('narrative', '')}")
+            if post.get("like_count") is not None or post.get("comment_count") is not None:
+                lines.append(f"{post.get('like_count', 0):,} likes · {post.get('comment_count', 0):,} comments")
             if post.get("topics"):
                 lines.append(f"Topics: {', '.join(post['topics'])}")
             if post.get("people_partners"):

@@ -3,7 +3,8 @@
 
 Usage: python3 append_posts.py <handle>  (reads a JSON array of records from stdin)
 Each record: {"id", "url", "posted_at", "caption_excerpt", "media_type",
-              "category", "narrative", "topics": [...], "people_partners": [...]}
+              "like_count", "comment_count", "category", "narrative",
+              "topics": [...], "people_partners": [...]}
 """
 import json
 import sys
