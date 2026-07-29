@@ -1,0 +1,42 @@
+name: Daily competitor watch
+
+on:
+  schedule:
+    # 06:23 UTC daily (~09:23 Israel time). Off-the-hour on purpose: scheduled
+    # runs on the hour queue behind everyone else's and get delayed.
+    - cron: "23 6 * * *"
+  # Lets us run it by hand from the Actions tab without waiting for the cron.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run the daily check
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: "Read ROUTINE.md in this repository and follow its instructions exactly, once, then stop."
+          claude_args: "--allowedTools Bash,Read,Write,Edit"
+        env:
+          SCRAPECREATORS_API_KEY: ${{ secrets.SCRAPECREATORS_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
+          REPORT_TO_EMAIL: ${{ secrets.REPORT_TO_EMAIL }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+
+      # Committing here rather than asking the agent to do it — one less thing
+      # that can go wrong, and the run still records what changed.
+      - name: Commit updated state
+        run: |
+          git config user.name "competitor-watch"
+          git config user.email "actions@github.com"
+          git add data/seen_posts.json DASHBOARD.md
+          git diff --staged --quiet || git commit -m "Daily check: $(date -u +%Y-%m-%d)"
+          git push

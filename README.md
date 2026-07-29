@@ -2,7 +2,7 @@
 
 An AI agent that checks a configurable list of competitor Instagram accounts once a day and, when there's new activity, sends a short summary — what happened, the narrative/theme, topics covered, people/partners involved, and a post-type category — by email and Slack.
 
-Built as a portfolio piece for Deeep Social. Runs unattended as a [Claude Code Routine](https://claude.com/blog/introducing-routines-in-claude-code) on a daily schedule — no server or laptop required.
+Built as a portfolio piece for Deeep Social. Runs unattended on a daily GitHub Actions schedule — no server or laptop required.
 
 ## How it works
 
@@ -48,4 +48,12 @@ python3 scripts/fetch_posts.py waze
 
 ## Running on a schedule
 
-This repo is meant to be connected to a Claude Code Routine set to run once a day, with the variables above configured as routine secrets (not committed to the repo). See [`ROUTINE.md`](ROUTINE.md) for what the routine does on every run.
+[`.github/workflows/daily-watch.yml`](.github/workflows/daily-watch.yml) runs the whole thing once a day on GitHub's own infrastructure. Each run checks out the repo, hands [`ROUTINE.md`](ROUTINE.md) to Claude Code (authenticated with a Claude subscription token, so no separate API billing), and commits any new findings back.
+
+The variables in the table above live as **repository secrets** — Settings → Secrets and variables → Actions — never in the repo. Add one more alongside them:
+
+| Secret | Where to get it |
+|---|---|
+| `CLAUDE_CODE_OAUTH_TOKEN` | run `claude setup-token` locally |
+
+The workflow also has a manual trigger, so you can run it on demand from the Actions tab instead of waiting for the next scheduled run.

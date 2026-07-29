@@ -1,6 +1,8 @@
 # Daily run instructions
 
-You are running as a scheduled Claude Code Routine. Do the following, once, then stop.
+You are running inside the scheduled GitHub Actions workflow in `.github/workflows/daily-watch.yml`. Do the following, once, then stop.
+
+All API keys are already set as environment variables — read them from the environment, never hardcode or print them.
 
 ## 1. Load the account list
 Read `data/accounts.json`. For each account with `"active": true`, do steps 2–4.
