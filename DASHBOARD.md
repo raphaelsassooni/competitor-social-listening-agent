@@ -1,6 +1,6 @@
 # Competitor Watch
 
-_Last updated: 2026-07-29 14:51 UTC_
+_Last updated: 2026-07-29 15:16 UTC_
 
 ## Moovit
 
@@ -202,3 +202,215 @@ Topics: brand vision, mission statement
 151 likes · 11 comments
 Topics: brand vision, mission statement
 [View post](https://www.instagram.com/p/C0uenN4OrkR/)
+
+## Deeep Social
+
+_Competitors tracked: Diboor Media, Xtra Mile, The Bract_
+
+### Diboor Media
+
+**2025-04-10** — brand/marketing — Interactive Passover greeting generator themed on the Four Sons, built as a holiday marketing gimmick.
+5 likes · 1 comments
+Topics: Passover, interactive content, holiday marketing
+[View post](https://www.instagram.com/p/DIQqBykIRXQ/)
+
+**2025-04-10** — brand/marketing — Gen-Z-audience campaign content tied to the hi-tech crowd, built around a card/benefit wordplay hook.
+17 likes · 1 comments
+Topics: Gen Z, hitech audience, campaign
+People/partners: Hitech Zone Israel
+[View post](https://www.instagram.com/p/DIRFSx2IQpX/)
+
+**2025-04-21** — brand/marketing — Sales pitch for Diboor's social-media strategy service, with a Passover enrollment discount.
+14 likes · 0 comments
+Topics: social media strategy, sales funnel, course enrollment, Passover promotion
+[View post](https://www.instagram.com/p/DIsy3o1o69N/)
+
+**2026-04-13** — community — Annual pro-bono print/digital/radio campaign supporting Aviv Association's work for elderly rights and Holocaust survivors.
+5 likes · 0 comments
+Topics: pro-bono, nonprofit, elderly rights, Holocaust survivors
+People/partners: Aviv Association
+[View post](https://www.instagram.com/p/DXEQO7qiC0n/)
+
+**2026-04-22** — brand/marketing — Light-hearted branded content for Cellcom's Burekas Day, featuring Shahar Shaltiel.
+10 likes · 0 comments
+Topics: branded content, humor, holiday campaign
+People/partners: Cellcom, Shahar Shaltiel
+[View post](https://www.instagram.com/p/DXbcbZ6iCnn/)
+
+**2026-04-30** — brand/marketing — Testimonial video series produced for Cellcom Electric's customer campaign.
+11 likes · 0 comments
+Topics: testimonials, client campaign, electricity
+People/partners: Cellcom
+[View post](https://www.instagram.com/p/DXwW8r1okks/)
+
+**2026-05-31** — brand/marketing — Behind-the-scenes footage from Dynamica ad shoots, showcasing the production team.
+119 likes · 10 comments
+Topics: behind-the-scenes, client work, video production
+People/partners: Dynamica, Stav Farhi, Tal Rolnitzki, Saar Tzafrir, Nadav Bor, elnatan_alpert
+[View post](https://www.instagram.com/p/DZACzC8Nxkw/)
+
+**2026-06-17** — hiring — Recruitment call directing candidates to submit a resume.
+4 likes · 0 comments
+Topics: hiring, jobs
+[View post](https://www.instagram.com/p/DZsMneHoZcy/)
+
+**2026-06-23** — brand/marketing — Team-credit post for a video series produced for client Dynamica.
+10 likes · 2 comments
+Topics: video production, client work, team credits
+People/partners: Dynamica, Tal Rolnitzki, Nadav Bronstein, Stav Farhi
+[View post](https://www.instagram.com/p/DZ7VFcNoKl2/)
+
+**2026-06-25** — brand/marketing — Case study on an influencer-driven "chef reveal" campaign segment that drove thousands of paid views.
+8 likes · 0 comments
+Topics: influencer marketing, event promotion, sponsorship
+[View post](https://www.instagram.com/p/DaAu2EhKQZ6/)
+
+**2026-07-24** — brand/marketing — Promo video produced for Dynamica to support the new Samsung device launch.
+4 likes · 1 comments
+Topics: product launch, video production, client work
+People/partners: Dynamica, Samsung
+[View post](https://www.instagram.com/p/DbKr3G8o3pO/)
+
+**2026-07-25** — brand/marketing — A behind-the-scenes breakdown of the editing choices (hook placement, pacing, A/B testing) behind a recruitment ad for Beit Berl College.
+74 likes · 4 comments
+Topics: video editing, hook writing, education marketing, client work
+People/partners: Beit Berl College, elnatan_alpert
+[View post](https://www.instagram.com/p/DbOXKRTtynB/)
+
+### Xtra Mile
+
+**2026-04-27** — brand/marketing — Third promo for the same webinar, this time centered on the "Dark Funnel" concept and measurement gaps.
+3 likes · 0 comments
+Topics: dark funnel, marketing analytics, webinar
+[View post](https://www.instagram.com/p/DXoBhk5DiXL/)
+
+**2026-05-03** — brand/marketing — Second promo for the same upcoming B2B webinar, on what customers actually remember versus what's marketed.
+6 likes · 0 comments
+Topics: B2B marketing, webinar, sales funnel
+[View post](https://www.instagram.com/p/DX3akMsDyOU/)
+
+**2026-05-06** — brand/marketing — Promotion for an upcoming (5/12) webinar on how B2B audiences actually consume content.
+4 likes · 0 comments
+Topics: B2B marketing, webinar, content strategy
+[View post](https://www.instagram.com/p/DX__B65GpcW/)
+
+**2026-05-27** — brand/marketing — Thought-leadership discussion with Yossi Chaimov, EVP at Abra, on AI's growing presence everywhere, posed as an engagement question.
+14 likes · 0 comments
+Topics: AI, technology trends, panel discussion
+People/partners: Yossi Chaimov, Abra
+[View post](https://www.instagram.com/p/DY2OC_TinkK/)
+
+**2026-07-02** — partnership — Employer-branding activation for client MAX at an HR conference, including a "What's Your Mode?" interactive photo booth.
+17 likes · 0 comments
+Topics: employer branding, field marketing, HR marketing, photo booth activation
+People/partners: MAX
+[View post](https://www.instagram.com/p/DaSQ7Texk5i/)
+
+**2026-07-05** — hiring — Job posting for a marketing operations lead overseeing B2B client campaigns.
+9 likes · 0 comments
+Topics: hiring, marketing operations, B2B
+[View post](https://www.instagram.com/p/DaalsDCkoag/)
+
+**2026-07-07** — hiring — Job posting for a Social Media Manager with 1-2 years experience.
+7 likes · 0 comments
+Topics: hiring, social media manager
+[View post](https://www.instagram.com/p/DafM8YKgSAH/)
+
+**2026-07-09** — brand/marketing — Branding commentary using Levi's and Gillette's World Cup sponsorship-restriction workarounds as a case study on brand resilience.
+6 likes · 0 comments
+Topics: branding, World Cup marketing, FIFA sponsorship, campaign strategy
+People/partners: Levi's, Gillette
+[View post](https://www.instagram.com/p/DakTodUDhIv/)
+
+**2026-07-16** — community — Head of Creative Ron led a storytelling workshop for people transitioning into high-tech careers.
+6 likes · 0 comments
+Topics: storytelling, workshop, high-tech career transition
+People/partners: Ron
+[View post](https://www.instagram.com/p/Da26d68DLcl/)
+
+**2026-07-20** — brand/marketing — Brand-voice post illustrating Xtra Mile's concept of client/lead "nurturing."
+12 likes · 0 comments
+Topics: nurturing, B2B marketing, brand messaging
+[View post](https://www.instagram.com/p/DbBOuuzM0nW/)
+
+**2026-07-23** — brand/marketing — Playful, low-context teaser video meant to spark engagement.
+188 likes · 14 comments
+Topics: humor, engagement
+[View post](https://www.instagram.com/p/DbI8kY-MPIK/)
+
+**2026-07-28** — brand/marketing — Thought-leadership clip from an internal panel between Adi Talbi Loria and Head of Creative Ron Naymark on how AI is changing practical creative marketing work.
+16 likes · 2 comments
+Topics: AI, marketing, creative process, panel discussion
+People/partners: Adi Talbi Loria, Ron Naymark
+[View post](https://www.instagram.com/p/DbVz7jtRhe0/)
+
+### The Bract
+
+**2026-04-21** — brand/marketing — Portfolio reveal of the brand identity created for Lumèra, a cosmetic skincare brand.
+57 likes · 5 comments
+Topics: branding, skincare, cosmetics, brand identity
+People/partners: Lumèra
+[View post](https://www.instagram.com/p/DXZLcVsDR_1/)
+
+**2026-04-23** — brand/marketing — Thought-leadership playbook on startup fundraising storytelling, citing a client who raised $3M in 2 months after messaging/deck work.
+8 likes · 1 comments
+Topics: fundraising, pitch deck, brand strategy, startup storytelling
+[View post](https://www.instagram.com/p/DXes2ITDJxu/)
+
+**2026-05-24** — brand/marketing — Project announcement introducing the new branding engagement for Claryx.
+10 likes · 2 comments
+Topics: branding, cybersecurity
+People/partners: Claryx
+[View post](https://www.instagram.com/p/DYubRocDexU/)
+
+**2026-05-25** — brand/marketing — Portfolio follow-up sharing additional visuals from the Claryx branding case study.
+14 likes · 2 comments
+Topics: branding, cybersecurity, brand identity
+People/partners: Claryx
+[View post](https://www.instagram.com/p/DYwq0HEDSiM/)
+
+**2026-05-29** — brand/marketing — Case study detailing a full-brand engagement for Claryx completed in 3 weeks via their "Launch" program.
+62 likes · 4 comments
+Topics: branding, cybersecurity, brand strategy, website design
+People/partners: Claryx
+[View post](https://www.instagram.com/p/DY7I6LTNvNl/)
+
+**2026-06-08** — brand/marketing — Case study on the personal-branding process for Lital, from messaging strategy to identity design.
+10 likes · 5 comments
+Topics: personal branding, messaging strategy, identity design
+People/partners: Lital
+[View post](https://www.instagram.com/p/DZUwGbyGY-Z/)
+
+**2026-06-11** — brand/marketing — Follow-up portfolio post showing additional assets from Lital's personal-branding project.
+12 likes · 2 comments
+Topics: personal branding, design
+People/partners: Lital Banouz, romydaoudy
+[View post](https://www.instagram.com/p/DZcHEAwEe1S/)
+
+**2026-06-16** — brand/marketing — Client spotlight on brand identity work for Raising Sabras, a nonprofit supporting immigrant parents in Israel.
+30 likes · 9 comments
+Topics: branding, logo design, nonprofit, immigrant support
+People/partners: Raising Sabras, Rebecca Katz, Romy
+[View post](https://www.instagram.com/p/DZpjM3MkRNy/)
+
+**2026-06-28** — brand/marketing — Year-in-review portfolio recap spanning medtech, cybersecurity, and personal branding clients.
+9 likes · 1 comments
+Topics: portfolio, medtech, cybersecurity, personal branding
+People/partners: Acusurgical, Claryx, Lital Banouz
+[View post](https://www.instagram.com/p/DaIDrcVNMVF/)
+
+**2026-07-07** — brand/marketing — Teaser for an upcoming, unnamed branding project.
+21 likes · 8 comments
+Topics: branding, teaser
+[View post](https://www.instagram.com/p/DafErkbtbzh/)
+
+**2026-07-12** — brand/marketing — Brand-philosophy reflection on how everything communicates, tying personal presentation to branding strategy.
+11 likes · 0 comments
+Topics: branding, communication, positioning
+[View post](https://www.instagram.com/p/DastSb9o8R9/)
+
+**2026-07-14** — brand/marketing — Case study on humanizing cybersecurity branding for Claryx, replacing fear-driven category conventions with a warm visual system.
+574 likes · 16 comments
+Topics: branding, cybersecurity, brand identity, visual design
+People/partners: Claryx
+[View post](https://www.instagram.com/p/DawzF31iLCC/)
