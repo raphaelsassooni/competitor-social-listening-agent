@@ -1,8 +1,14 @@
 # Competitor Social Listening Agent
 
-An AI agent that checks a configurable list of competitor Instagram accounts once a day and, when there's new activity, sends a short summary — what happened, the narrative/theme, topics covered, people/partners involved, and a post-type category — by email and Slack.
+Most of the real work in social media isn't writing captions or producing creative — it's understanding the narrative the market is talking about. Staying aware of what competitors are doing is part of that job, but in practice it's usually manual and inconsistent: something a social media manager checks sporadically, if at all.
 
-Built as a portfolio piece for Deeep Social. Runs unattended on a daily GitHub Actions schedule — no server or laptop required.
+This tool automates that specific piece of the work. It monitors a defined set of competitor Instagram accounts, and once a day — if there's been activity — produces a structured summary: what happened, the main narrative or theme, areas of interest, who was involved, and a rough categorisation. That summary is delivered automatically, so market awareness becomes a standing, consistent input rather than something that depends on someone remembering to check.
+
+The output isn't the competitor's content itself — it's the pattern underneath it, which is the part that actually informs strategy and content decisions.
+
+The tool is brand-agnostic: point it at any set of competitor accounts for any brand or agency. The example below (Moovit, tracking Waze, Google Maps and Transit) is a working demonstration, not the point of the tool itself.
+
+Runs unattended on a daily GitHub Actions schedule — no server or laptop required.
 
 ## How it works
 
