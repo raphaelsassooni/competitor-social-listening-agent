@@ -38,6 +38,22 @@ def slack_call(method: str, payload: dict) -> dict:
         return json.load(response)
 
 
+def invite_watchers(channel_id: str) -> None:
+    """Add the humans in SLACK_INVITE_USER_IDS to a channel.
+
+    The bot auto-joins channels it creates, but that doesn't put them in
+    anyone's sidebar — a public channel you haven't joined stays invisible.
+    Inviting the watchers makes a new brand's channel just show up.
+    """
+    user_ids = [uid.strip() for uid in os.environ.get("SLACK_INVITE_USER_IDS", "").split(",") if uid.strip()]
+    if not user_ids:
+        return
+    result = slack_call("conversations.invite", {"channel": channel_id, "users": ",".join(user_ids)})
+    # Already being in the channel is the normal steady state, not a problem.
+    if not result.get("ok") and result.get("error") != "already_in_channel":
+        print(f"warning: could not invite watchers to {channel_id}: {result.get('error')}")
+
+
 def ensure_channel(name: str) -> str:
     """Return a channel reference for `name`, creating it if it doesn't exist yet.
 
@@ -48,7 +64,9 @@ def ensure_channel(name: str) -> str:
     """
     created = slack_call("conversations.create", {"name": name})
     if created.get("ok"):
-        return created["channel"]["id"]
+        channel_id = created["channel"]["id"]
+        invite_watchers(channel_id)
+        return channel_id
     if created.get("error") == "name_taken":
         return f"#{name}"
     raise RuntimeError(f"Slack conversations.create failed for #{name}: {created.get('error')}")
