@@ -8,6 +8,15 @@
         { "handle": "googlemaps", "label": "Google Maps", "active": true },
         { "handle": "transit.app", "label": "Transit", "active": true }
       ]
+    },
+    {
+      "brand": "Deeep Social",
+      "slack_channel": "deeep-social-watch",
+      "accounts": [
+        { "handle": "diboor_media", "label": "Diboor Media", "active": true },
+        { "handle": "xtra_mile", "label": "Xtra Mile", "active": true },
+        { "handle": "the.bract", "label": "The Bract", "active": true }
+      ]
     }
   ]
 }
