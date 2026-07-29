@@ -35,12 +35,14 @@ Needs three free accounts. None require a credit card to start.
 | `RESEND_API_KEY` | [resend.com](https://resend.com) — free tier |
 | `RESEND_FROM_EMAIL` | use `onboarding@resend.dev` (Resend's shared test sender) to skip domain verification |
 | `REPORT_TO_EMAIL` | your inbox |
-| `SLACK_WEBHOOK_URL` | Slack → Apps → Incoming Webhooks |
+| `SLACK_BOT_TOKEN` / `SLACK_CHANNEL` | [api.slack.com/apps](https://api.slack.com/apps) → create an app → OAuth & Permissions → add the `chat:write` Bot Token Scope → Install to Workspace → invite the bot to the target channel |
+
+(Slack's older "Incoming Webhooks" are a deprecated legacy integration — this uses a proper Slack app + bot token instead.)
 
 Copy `.env.example` to `.env` and fill these in for local testing (never commit `.env` — it's gitignored). Run any script directly to test it in isolation, e.g.:
 
 ```bash
-export $(cat .env | xargs)
+set -a && source .env && set +a
 python3 scripts/fetch_posts.py waze
 ```
 

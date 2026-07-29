@@ -67,6 +67,8 @@ def send_email(summary: dict) -> None:
         headers={
             "Authorization": f"Bearer {os.environ['RESEND_API_KEY']}",
             "Content-Type": "application/json",
+            # Cloudflare (in front of Resend's API) blocks urllib's default UA as bot traffic.
+            "User-Agent": "competitor-social-listening-agent/1.0",
         },
     )
     with urllib.request.urlopen(request, timeout=30) as response:
