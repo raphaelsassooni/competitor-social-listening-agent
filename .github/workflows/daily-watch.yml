@@ -35,9 +35,15 @@ jobs:
       # Committing here rather than asking the agent to do it — one less thing
       # that can go wrong, and the run still records what changed.
       - name: Commit updated state
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "competitor-watch"
           git config user.email "actions@github.com"
+          # Re-set the authenticated remote explicitly: the Claude Code Action
+          # step above reconfigures git's own credentials for its purposes,
+          # which left the token checkout set up unusable for this push.
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
           git add data/seen_posts.json DASHBOARD.md
           git diff --staged --quiet || git commit -m "Daily check: $(date -u +%Y-%m-%d)"
           git push
