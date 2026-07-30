@@ -45,7 +45,7 @@ Needs three free accounts. None require a credit card to start.
 |---|---|
 | `SCRAPECREATORS_API_KEY` | [scrapecreators.com](https://scrapecreators.com) — 100 free credits, no card |
 | `RESEND_API_KEY` | [resend.com](https://resend.com) — free tier |
-| `RESEND_FROM_EMAIL` | use `onboarding@resend.dev` (Resend's shared test sender) to skip domain verification |
+| `RESEND_FROM_EMAIL` | an address on a domain you've verified in Resend (Domains → Add Domain → add the DNS records it returns). Resend's shared `onboarding@resend.dev` is sandbox-only and stops sending once the trial window closes — verifying a domain is free and needs no mailbox, only DNS records |
 | `REPORT_TO_EMAIL` | your inbox |
 | `SLACK_BOT_TOKEN` | [api.slack.com/apps](https://api.slack.com/apps) → create an app → OAuth & Permissions → add the `chat:write` and `channels:manage` Bot Token Scopes → Install to Workspace |
 
