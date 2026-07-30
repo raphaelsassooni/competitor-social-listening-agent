@@ -12,23 +12,31 @@ Expected schema for data/today_summary.json:
     {
       "brand": "Moovit",
       "run_date": "2026-07-29",
-      "has_activity": true,
       "accounts": [
         {
           "label": "Waze",
           "new_post_count": 1,
           "headline": "Waze rolled out a new fuel-price overlay",
-          "bullets": ["Narrative: ...", "Topics: ...", "People/partners: ...", "Type: ..."]
+          "narrative": "Positioning around real-time driver savings",
+          "topics": ["fuel prices", "route planning"],
+          "people_partners": ["@xbox"],
+          "category": "product update"
         }
       ]
     }
   ]
 }
+The four display lines are built from those typed fields by summary_lines.py —
+don't hand-write bullet strings here, or email and Slack drift apart.
 """
 import json
 import os
+import sys
 import urllib.request
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from summary_lines import summary_lines
 
 ROOT = Path(__file__).resolve().parent.parent
 SUMMARY_PATH = ROOT / "data" / "today_summary.json"
@@ -39,7 +47,7 @@ def build_html(brand: dict) -> str:
     accounts_html = ""
     for account in brand["accounts"]:
         if account.get("new_post_count"):
-            bullets_html = "".join(f"<li style='margin:4px 0;color:#3f3f46;'>{b}</li>" for b in account.get("bullets", []))
+            bullets_html = "".join(f"<li style='margin:4px 0;color:#3f3f46;'>{b}</li>" for b in summary_lines(account))
             body = f"<p style='margin:6px 0 8px;font-weight:600;color:#18181b;'>{account['headline']}</p><ul style='margin:0;padding-left:18px;'>{bullets_html}</ul>"
         else:
             body = "<p style='margin:6px 0 0;color:#a1a1aa;'>Nothing new today.</p>"

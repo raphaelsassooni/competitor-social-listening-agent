@@ -38,10 +38,19 @@ Once all brands are done, run `python3 scripts/render_dashboard.py`. This regene
 ## 7. Write today's summary
 Write `data/today_summary.json` with one entry per brand, covering every active account within it:
 ```json
-{"brands": [{"brand": "Moovit", "run_date": "2026-07-29", "has_activity": true,
-  "accounts": [{"label": "Waze", "new_post_count": 1, "headline": "...", "bullets": ["Narrative: ...", "Topics: ...", "People/partners: ...", "Type: ..."]}]}]}
+{"brands": [{"brand": "Moovit", "run_date": "2026-07-29",
+  "accounts": [{"label": "Waze", "new_post_count": 1,
+    "headline": "one line on what happened for this account today",
+    "narrative": "the theme or angle underneath it",
+    "topics": ["..."],
+    "people_partners": ["..."],
+    "category": "product update"}]}]}
 ```
-Set `has_activity` to false for a brand where no account had new posts. Keep it short: one headline plus a few bullets per account with new activity.
+Where an account had several new posts, summarise them together into that one entry rather than listing each post — the daily read is about the pattern, not a post-by-post log (the dashboard already holds the per-post detail).
+
+Give every account an entry, using `"new_post_count": 0` for ones with nothing new. Don't add a `has_activity` flag or pre-formatted `bullets` — the senders derive both from these fields, so anything hand-formatted here just drifts out of sync.
+
+`people_partners` may be an empty list; the senders omit the line rather than printing it empty.
 
 ## 8. Commit
 Commit `data/seen_posts.json` and `DASHBOARD.md` with a message like `Daily check: <date>`. Do not commit `.env` or `data/today_summary.json` (both gitignored).

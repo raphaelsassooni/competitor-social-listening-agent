@@ -13,9 +13,13 @@ existed). Channels are named per brand in data/accounts.json.
 """
 import json
 import os
+import sys
 import urllib.error
 import urllib.request
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from summary_lines import summary_lines
 
 ROOT = Path(__file__).resolve().parent.parent
 SUMMARY_PATH = ROOT / "data" / "today_summary.json"
@@ -76,13 +80,15 @@ def build_blocks(brand: dict) -> list[dict]:
     blocks = [
         {"type": "header", "text": {"type": "plain_text", "text": f"Competitors of {brand['brand']} — {brand['run_date']}"}},
     ]
-    if not brand.get("has_activity"):
+    # Derived from the account records, not a separate flag the agent also
+    # writes — those two drifted apart once and silently suppressed an email.
+    if not any(account.get("new_post_count") for account in brand.get("accounts", [])):
         blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": "_Nothing new today._"}})
         return blocks
 
     for account in brand["accounts"]:
         if account.get("new_post_count"):
-            bullet_text = "\n".join(f"• {b}" for b in account.get("bullets", []))
+            bullet_text = "\n".join(f"• {b}" for b in summary_lines(account))
             text = f"*{account['label']} — {account['headline']}*\n{bullet_text}"
         else:
             text = f"*{account['label']}* — nothing new today"
