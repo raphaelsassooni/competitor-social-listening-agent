@@ -86,7 +86,13 @@ def send_brand_email(brand: dict) -> None:
 
 def send_email(summary: dict) -> None:
     for brand in summary["brands"]:
-        if brand.get("has_activity"):
+        # Derived from the account records themselves rather than trusting the
+        # separate `has_activity` flag the agent also writes — those two can
+        # drift out of sync (seen in practice: Slack showed real content for a
+        # brand whose top-level flag was nonetheless false, so its email got
+        # silently skipped). This is the same signal send_slack.py uses.
+        has_activity = any(account.get("new_post_count") for account in brand.get("accounts", []))
+        if has_activity:
             send_brand_email(brand)
             print(f"emailed: {brand['brand']}")
         else:
