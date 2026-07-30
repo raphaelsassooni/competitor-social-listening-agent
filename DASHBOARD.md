@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-07-29 15:16 UTC_
+_Last updated: 2026-07-30 10:24 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-07-29** — community — A behind-the-scenes thank-you to the team members who keep Waze running, framed as an appreciation/culture post rather than a product push.
+239 likes · 3 comments
+Topics: team appreciation, company culture
+[View post](https://www.instagram.com/p/DbZQfF6kXVa/)
 
 **2026-07-16** — brand/marketing — Humor post about hilly/uneven streets, general relatable driving content.
 55 likes · 1 comments
