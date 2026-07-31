@@ -52,8 +52,8 @@ Give every account an entry, using `"new_post_count": 0` for ones with nothing n
 
 `people_partners` may be an empty list; the senders omit the line rather than printing it empty.
 
-## 8. Commit
-Commit `data/seen_posts.json` and `DASHBOARD.md` with a message like `Daily check: <date>`. Do not commit `.env` or `data/today_summary.json` (both gitignored).
+## 8. Don't commit
+Leave the files as you've written them — the workflow commits and pushes them after you finish, along with the run marker. Committing here too just produces a duplicate commit for the same day, and this step used to hit credential problems that the workflow's own commit step doesn't have.
 
 ## 9. Send
 Run `python3 scripts/send_email.py` and `python3 scripts/send_slack.py`. Both read `data/today_summary.json` and handle the per-brand splitting themselves:
