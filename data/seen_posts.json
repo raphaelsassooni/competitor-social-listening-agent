@@ -1,6 +1,26 @@
 {
   "waze": [
     {
+      "id": "3952772575164665156_49910135",
+      "url": "https://www.instagram.com/p/DbbEbbkmI1E/",
+      "posted_at": "2026-07-30T16:00:59+00:00",
+      "caption_excerpt": "Heading to Mexico? Pro-tip: 60 means kilometers per hour, not miles.",
+      "media_type": "video",
+      "like_count": 24,
+      "comment_count": 3,
+      "category": "brand/marketing",
+      "narrative": "Positioning Waze as a locally-informed guide for driving abroad, built with input from local community members rather than a generic travel guide.",
+      "topics": [
+        "driving tips",
+        "Mexico",
+        "international travel",
+        "traffic laws",
+        "community collaboration"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-31T12:46:19.291570+00:00"
+    },
+    {
       "id": "3952262653393597786_49910135",
       "url": "https://www.instagram.com/p/DbZQfF6kXVa/",
       "posted_at": "2026-07-29T23:07:24+00:00",
@@ -500,6 +520,24 @@
     }
   ],
   "transit.app": [
+    {
+      "id": "3952878368287116589_16624728147",
+      "url": "https://www.instagram.com/p/Dbbce7GFE0t/",
+      "posted_at": "2026-07-30T19:31:50+00:00",
+      "caption_excerpt": "soothe your spirit and raise your car-free vibration with these transit affirmations",
+      "media_type": "carousel",
+      "like_count": 228,
+      "comment_count": 6,
+      "category": "brand/marketing",
+      "narrative": "Playful, identity-driven branding around car-free living, borrowing the wellness/affirmation content format to build lifestyle appeal.",
+      "topics": [
+        "car-free lifestyle",
+        "brand voice",
+        "humor"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-07-31T12:46:19.320530+00:00"
+    },
     {
       "id": "3785354514657250681_16624728147",
       "url": "https://www.instagram.com/p/DSIR-AbEQ15/",

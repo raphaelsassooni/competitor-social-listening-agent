@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-07-30 12:16 UTC_
+_Last updated: 2026-07-31 12:46 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-07-30** — brand/marketing — Positioning Waze as a locally-informed guide for driving abroad, built with input from local community members rather than a generic travel guide.
+24 likes · 3 comments
+Topics: driving tips, Mexico, international travel, traffic laws, community collaboration
+[View post](https://www.instagram.com/p/DbbEbbkmI1E/)
 
 **2026-07-29** — community — A behind-the-scenes thank-you to the team members who keep Waze running, framed as an appreciation/culture post rather than a product push.
 239 likes · 3 comments
@@ -147,6 +152,11 @@ People/partners: Gemini
 [View post](https://www.instagram.com/p/DWhwrpHD2MR/)
 
 ### Transit
+
+**2026-07-30** — brand/marketing — Playful, identity-driven branding around car-free living, borrowing the wellness/affirmation content format to build lifestyle appeal.
+228 likes · 6 comments
+Topics: car-free lifestyle, brand voice, humor
+[View post](https://www.instagram.com/p/Dbbce7GFE0t/)
 
 **2025-12-11** — community — Transit launches its annual "Year in Transit" personalized recap feature summarizing users' 2025 ridership stats and achievements.
 432 likes · 14 comments
