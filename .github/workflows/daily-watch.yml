@@ -2,9 +2,16 @@ name: Daily competitor watch
 
 on:
   schedule:
-    # 06:23 UTC daily (~09:23 Israel time). Off-the-hour on purpose: scheduled
-    # runs on the hour queue behind everyone else's and get delayed.
+    # Five attempts, not one. GitHub's scheduled runs are best-effort: they get
+    # delayed under load and are sometimes dropped outright (observed here --
+    # one day ran ~6h late, the next was skipped entirely). The guard step below
+    # makes every attempt after the day's first a near-instant no-op, so these
+    # are retries rather than five runs. First one to land wins; the rest exit.
     - cron: "23 6 * * *"
+    - cron: "23 8 * * *"
+    - cron: "23 10 * * *"
+    - cron: "23 13 * * *"
+    - cron: "23 16 * * *"
   # Lets us run it by hand from the Actions tab without waiting for the cron.
   workflow_dispatch:
 
@@ -12,13 +19,39 @@ permissions:
   contents: write
   id-token: write
 
+# If a scheduled attempt somehow overlaps a still-running one, don't double-send.
+concurrency:
+  group: daily-watch
+  cancel-in-progress: false
+
 jobs:
   watch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
+      - name: Skip if today's check already ran
+        id: guard
+        env:
+          # Via env rather than inline interpolation — the safe pattern for
+          # anything sourced from the event payload.
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          LAST=$(cat data/last_run.txt 2>/dev/null || echo "never")
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "Manual run — proceeding regardless of today's state."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          elif [ "$LAST" = "$TODAY" ]; then
+            echo "Already ran today ($TODAY). Nothing to do."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No run yet today ($TODAY; last was $LAST). Proceeding."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run the daily check
+        if: steps.guard.outputs.skip == 'false'
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -35,6 +68,7 @@ jobs:
       # Committing here rather than asking the agent to do it — one less thing
       # that can go wrong, and the run still records what changed.
       - name: Commit updated state
+        if: steps.guard.outputs.skip == 'false'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -44,6 +78,12 @@ jobs:
           # step above reconfigures git's own credentials for its purposes,
           # which left the token checkout set up unusable for this push.
           git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
-          git add data/seen_posts.json DASHBOARD.md
+          # Written even on a quiet day, so the guard above has something to
+          # read and later attempts today know to stand down. Doubles as proof
+          # the run happened, and as the repo activity that stops GitHub
+          # auto-disabling schedules on idle repos.
+          date -u +%Y-%m-%d > data/last_run.txt
+          git add data/seen_posts.json DASHBOARD.md data/last_run.txt
           git diff --staged --quiet || git commit -m "Daily check: $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash
           git push

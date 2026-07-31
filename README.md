@@ -68,4 +68,6 @@ The variables in the table above live as **repository secrets** — Settings →
 |---|---|
 | `CLAUDE_CODE_OAUTH_TOKEN` | run `claude setup-token` locally |
 
+GitHub's scheduled runs are best-effort — under load they get delayed, and are sometimes dropped entirely (both happened here on consecutive days). So the workflow schedules **five attempts** through the day rather than one. A guard step reads `data/last_run.txt` and exits immediately if the day's check already happened, so only the first attempt to land does any work and the rest cost a few seconds each. A dropped slot self-heals at the next one instead of silently costing a day.
+
 The workflow also has a manual trigger, so you can run it on demand from the Actions tab instead of waiting for the next scheduled run.
