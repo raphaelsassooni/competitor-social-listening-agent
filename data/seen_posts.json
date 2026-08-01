@@ -1,6 +1,26 @@
 {
   "waze": [
     {
+      "id": "3953497309765803750_49910135",
+      "url": "https://www.instagram.com/p/DbdpNtRDZ7m/",
+      "posted_at": "2026-07-31T16:00:27+00:00",
+      "caption_excerpt": "@halo x Waze is BACK! But this time you've got some brand new choices to make\u2026",
+      "media_type": "photo",
+      "like_count": 195,
+      "comment_count": 8,
+      "category": "partnership/marketing",
+      "narrative": "Reviving the Halo x Waze gaming crossover with new in-app customization options (driver characters and vehicle skins) to drive engagement and buzz.",
+      "topics": [
+        "Halo crossover",
+        "in-app customization",
+        "gaming partnership"
+      ],
+      "people_partners": [
+        "Halo"
+      ],
+      "first_seen_at": "2026-08-01T11:13:18.169614+00:00"
+    },
+    {
       "id": "3952772575164665156_49910135",
       "url": "https://www.instagram.com/p/DbbEbbkmI1E/",
       "posted_at": "2026-07-30T16:00:59+00:00",
@@ -268,6 +288,53 @@
     }
   ],
   "googlemaps": [
+    {
+      "id": "3953381736057053964_12331195",
+      "url": "https://www.instagram.com/p/DbdO743MqMM/",
+      "posted_at": "2026-07-31T12:26:07+00:00",
+      "caption_excerpt": "Welcome to Prishtina! Today's the first day of @sunnyhillfestival and to celebrate, all of the restaurants, architecture and culture I love are now on Google Maps Street View.",
+      "media_type": "video",
+      "like_count": 87279,
+      "comment_count": 581,
+      "category": "partnership/marketing",
+      "narrative": "Companion sponsored post to the Dua Lipa Prishtina campaign, highlighting Google Maps Street View coverage of the city timed to the Sunny Hill Festival's opening day.",
+      "topics": [
+        "Google Maps Street View",
+        "influencer partnership",
+        "Prishtina",
+        "Sunny Hill Festival"
+      ],
+      "people_partners": [
+        "Dua Lipa",
+        "Sunny Hill Festival",
+        "Service95"
+      ],
+      "first_seen_at": "2026-08-01T11:13:18.199490+00:00"
+    },
+    {
+      "id": "3953435561792645380_39397568049",
+      "url": "https://www.instagram.com/p/DbdbLJ_DCkE/",
+      "posted_at": "2026-07-31T13:57:46+00:00",
+      "caption_excerpt": "Soma Slow Food. The Old Green Market. Monroe. Sunny Hill. @dualipa's Prishtina \u2013 her hometown through her eyes \u2013 now a @GoogleMaps list.",
+      "media_type": "carousel",
+      "like_count": 6025,
+      "comment_count": 46,
+      "category": "partnership/marketing",
+      "narrative": "Sponsored influencer campaign with Dua Lipa showcasing her hometown Prishtina via a curated Google Maps List, timed to the Sunny Hill Festival.",
+      "topics": [
+        "Google Maps Lists feature",
+        "influencer partnership",
+        "Prishtina",
+        "Sunny Hill Festival"
+      ],
+      "people_partners": [
+        "Dua Lipa",
+        "Sunny Hill Festival",
+        "Monroe",
+        "Soma Slow Food"
+      ],
+      "first_seen_at": "2026-08-01T11:13:18.199475+00:00"
+    },
     {
       "id": "3935290916730605764_39397568049",
       "url": "https://www.instagram.com/p/Dac9j0bjJDE/",

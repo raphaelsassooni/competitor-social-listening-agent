@@ -1,12 +1,18 @@
 # Competitor Watch
 
-_Last updated: 2026-07-31 12:46 UTC_
+_Last updated: 2026-08-01 11:13 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-07-31** — partnership/marketing — Reviving the Halo x Waze gaming crossover with new in-app customization options (driver characters and vehicle skins) to drive engagement and buzz.
+195 likes · 8 comments
+Topics: Halo crossover, in-app customization, gaming partnership
+People/partners: Halo
+[View post](https://www.instagram.com/p/DbdpNtRDZ7m/)
 
 **2026-07-30** — brand/marketing — Positioning Waze as a locally-informed guide for driving abroad, built with input from local community members rather than a generic travel guide.
 24 likes · 3 comments
@@ -83,6 +89,18 @@ People/partners: Minions & Monsters (movie), @minions
 [View post](https://www.instagram.com/p/DZu7EaOD5wG/)
 
 ### Google Maps
+
+**2026-07-31** — partnership/marketing — Companion sponsored post to the Dua Lipa Prishtina campaign, highlighting Google Maps Street View coverage of the city timed to the Sunny Hill Festival's opening day.
+87,279 likes · 581 comments
+Topics: Google Maps Street View, influencer partnership, Prishtina, Sunny Hill Festival
+People/partners: Dua Lipa, Sunny Hill Festival, Service95
+[View post](https://www.instagram.com/p/DbdO743MqMM/)
+
+**2026-07-31** — partnership/marketing — Sponsored influencer campaign with Dua Lipa showcasing her hometown Prishtina via a curated Google Maps List, timed to the Sunny Hill Festival.
+6,025 likes · 46 comments
+Topics: Google Maps Lists feature, influencer partnership, Prishtina, Sunny Hill Festival
+People/partners: Dua Lipa, Sunny Hill Festival, Monroe, Soma Slow Food
+[View post](https://www.instagram.com/p/DbdbLJ_DCkE/)
 
 **2026-07-06** — partnership — First installment of the sponsored Dua Lipa campaign, highlighting her favorite dinner spots across international cities as a saved Maps list.
 20,663 likes · 68 comments
