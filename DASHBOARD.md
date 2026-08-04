@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-08-03 16:06 UTC_
+_Last updated: 2026-08-04 13:14 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-08-03** — brand/marketing — A reflective, nostalgic brand-voice moment encouraging users to appreciate the journey already traveled rather than only what's ahead.
+56 likes · 6 comments
+Topics: reflection, nostalgia, brand voice
+[View post](https://www.instagram.com/p/DblZF7BnWBO/)
 
 **2026-07-31** — partnership/marketing — Reviving the Halo x Waze gaming crossover with new in-app customization options (driver characters and vehicle skins) to drive engagement and buzz.
 195 likes · 8 comments
