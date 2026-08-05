@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-08-04 13:14 UTC_
+_Last updated: 2026-08-05 12:29 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-08-04** — product update — Reducing friction in community reporting by making it feel natural and conversational rather than a chore.
+159 likes · 8 comments
+Topics: voice reporting, hands-free feature, app settings, community data
+[View post](https://www.instagram.com/p/Dbn6yB1I5w3/)
 
 **2026-08-03** — brand/marketing — A reflective, nostalgic brand-voice moment encouraging users to appreciate the journey already traveled rather than only what's ahead.
 56 likes · 6 comments
