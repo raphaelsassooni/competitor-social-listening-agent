@@ -1,6 +1,25 @@
 {
   "waze": [
     {
+      "id": "3957126442643824484_49910135",
+      "url": "https://www.instagram.com/p/DbqiYipFx9k/",
+      "posted_at": "2026-08-05T16:11:16+00:00",
+      "caption_excerpt": "friendly reminder that sharing your special interest is a love language",
+      "media_type": "video",
+      "like_count": 164,
+      "comment_count": 14,
+      "category": "community",
+      "narrative": "Celebrating and recruiting volunteer Map Editors, leaning on community pride to drive crowdsourced contribution.",
+      "topics": [
+        "community",
+        "map editors",
+        "crowdsourcing",
+        "user engagement"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-08-06T12:33:19.331555+00:00"
+    },
+    {
       "id": "3956389322305018935_49910135",
       "url": "https://www.instagram.com/p/Dbn6yB1I5w3/",
       "posted_at": "2026-08-04T16:01:07+00:00",
@@ -325,6 +344,29 @@
     }
   ],
   "googlemaps": [
+    {
+      "id": "3957091060811910774_336431628",
+      "url": "https://www.instagram.com/p/DbqaVqvkU52/",
+      "posted_at": "2026-08-05T15:00:35+00:00",
+      "caption_excerpt": "Consider this your personal tour of @dualipa's home.",
+      "media_type": "carousel",
+      "like_count": 5426,
+      "comment_count": 137,
+      "category": "partnership",
+      "narrative": "Using a celebrity partnership with Dua Lipa to promote Street View's expansion into Kosovo, tying a product launch to a cultural/travel story.",
+      "topics": [
+        "Street View",
+        "product launch",
+        "Kosovo",
+        "travel recommendations",
+        "celebrity partnership"
+      ],
+      "people_partners": [
+        "Dua Lipa (@dualipa)",
+        "Service95 (@service95)"
+      ],
+      "first_seen_at": "2026-08-06T12:33:19.361324+00:00"
+    },
     {
       "id": "3953381736057053964_12331195",
       "url": "https://www.instagram.com/p/DbdO743MqMM/",

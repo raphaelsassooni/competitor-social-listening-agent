@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-08-05 12:29 UTC_
+_Last updated: 2026-08-06 12:33 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-08-05** — community — Celebrating and recruiting volunteer Map Editors, leaning on community pride to drive crowdsourced contribution.
+164 likes · 14 comments
+Topics: community, map editors, crowdsourcing, user engagement
+[View post](https://www.instagram.com/p/DbqiYipFx9k/)
 
 **2026-08-04** — product update — Reducing friction in community reporting by making it feel natural and conversational rather than a chore.
 159 likes · 8 comments
@@ -99,6 +104,12 @@ People/partners: Minions & Monsters (movie), @minions
 [View post](https://www.instagram.com/p/DZu7EaOD5wG/)
 
 ### Google Maps
+
+**2026-08-05** — partnership — Using a celebrity partnership with Dua Lipa to promote Street View's expansion into Kosovo, tying a product launch to a cultural/travel story.
+5,426 likes · 137 comments
+Topics: Street View, product launch, Kosovo, travel recommendations, celebrity partnership
+People/partners: Dua Lipa (@dualipa), Service95 (@service95)
+[View post](https://www.instagram.com/p/DbqaVqvkU52/)
 
 **2026-07-31** — partnership/marketing — Companion sponsored post to the Dua Lipa Prishtina campaign, highlighting Google Maps Street View coverage of the city timed to the Sunny Hill Festival's opening day.
 87,279 likes · 581 comments
