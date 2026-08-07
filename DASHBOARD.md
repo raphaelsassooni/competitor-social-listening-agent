@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-08-06 12:33 UTC_
+_Last updated: 2026-08-07 01:45 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-08-06** — brand/marketing — Lighthearted, relatable summer-heat humor to keep the brand's voice casual and community-facing.
+39 likes · 2 comments
+Topics: summer heat, driving discomfort, humor
+[View post](https://www.instagram.com/p/DbtIocBFWgW/)
 
 **2026-08-05** — community — Celebrating and recruiting volunteer Map Editors, leaning on community pride to drive crowdsourced contribution.
 164 likes · 14 comments
@@ -104,6 +109,23 @@ People/partners: Minions & Monsters (movie), @minions
 [View post](https://www.instagram.com/p/DZu7EaOD5wG/)
 
 ### Google Maps
+
+**2026-08-06** — brand/marketing — Experiential, lifestyle-style content tying a NYC outing to an early-access gifting promo for Google Maps.
+464 likes · 22 comments
+Topics: early access, gifting, NYC lifestyle
+People/partners: googlemaps
+[View post](https://www.instagram.com/p/Dbss_jFxtRx/)
+
+**2026-08-06** — product update — Framing Ask Maps as an agentic AI assistant, leaning into 'agentic' and 'Personal Intelligence' as headline capabilities.
+661 likes · 27 comments
+Topics: Ask Maps, agentic AI, Personal Intelligence, real-time information
+[View post](https://www.instagram.com/p/DbsutEMCxwe/)
+
+**2026-08-06** — product update — Positioning Ask Maps as a major, newsworthy feature drop with global rollout to build momentum for the AI assistant.
+745 likes · 20 comments
+Topics: Ask Maps, AI features, international expansion
+People/partners: newsfromgoogle
+[View post](https://www.instagram.com/p/DbtPLg8ERNr/)
 
 **2026-08-05** — partnership — Using a celebrity partnership with Dua Lipa to promote Street View's expansion into Kosovo, tying a product launch to a cultural/travel story.
 5,426 likes · 137 comments

@@ -1,6 +1,24 @@
 {
   "waze": [
     {
+      "id": "3957857610762643478_49910135",
+      "url": "https://www.instagram.com/p/DbtIocBFWgW/",
+      "posted_at": "2026-08-06T16:23:36+00:00",
+      "caption_excerpt": "if your steering wheel is hot enough to make you reconsider leaving the house ... same tbh",
+      "media_type": "photo",
+      "like_count": 39,
+      "comment_count": 2,
+      "category": "brand/marketing",
+      "narrative": "Lighthearted, relatable summer-heat humor to keep the brand's voice casual and community-facing.",
+      "topics": [
+        "summer heat",
+        "driving discomfort",
+        "humor"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-08-07T01:45:50.317363+00:00"
+    },
+    {
       "id": "3957126442643824484_49910135",
       "url": "https://www.instagram.com/p/DbqiYipFx9k/",
       "posted_at": "2026-08-05T16:11:16+00:00",
@@ -344,6 +362,65 @@
     }
   ],
   "googlemaps": [
+    {
+      "id": "3957736053603226737_12275032352",
+      "url": "https://www.instagram.com/p/Dbss_jFxtRx/",
+      "posted_at": "2026-08-06T12:32:01+00:00",
+      "caption_excerpt": "An afternoon on the Upper East Side with @googlemaps #earlyaccess #giftfromgoogle",
+      "media_type": "video",
+      "like_count": 464,
+      "comment_count": 22,
+      "category": "brand/marketing",
+      "narrative": "Experiential, lifestyle-style content tying a NYC outing to an early-access gifting promo for Google Maps.",
+      "topics": [
+        "early access",
+        "gifting",
+        "NYC lifestyle"
+      ],
+      "people_partners": [
+        "googlemaps"
+      ],
+      "first_seen_at": "2026-08-07T01:45:50.347570+00:00"
+    },
+    {
+      "id": "3957743579564809246_336431628",
+      "url": "https://www.instagram.com/p/DbsutEMCxwe/",
+      "posted_at": "2026-08-06T12:38:00+00:00",
+      "caption_excerpt": "Ask Maps is getting an upgrade. Now powered by agentic capabilities, real-time information, and Personal Intelligence.",
+      "media_type": "video",
+      "like_count": 661,
+      "comment_count": 27,
+      "category": "product update",
+      "narrative": "Framing Ask Maps as an agentic AI assistant, leaning into 'agentic' and 'Personal Intelligence' as headline capabilities.",
+      "topics": [
+        "Ask Maps",
+        "agentic AI",
+        "Personal Intelligence",
+        "real-time information"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-08-07T01:45:50.347567+00:00"
+    },
+    {
+      "id": "3957886409507935083_336431628",
+      "url": "https://www.instagram.com/p/DbtPLg8ERNr/",
+      "posted_at": "2026-08-06T17:20:48+00:00",
+      "caption_excerpt": "JUST IN: Ask Maps is updating with a bunch of new features that will make planning and navigating even easier.",
+      "media_type": "carousel",
+      "like_count": 745,
+      "comment_count": 20,
+      "category": "product update",
+      "narrative": "Positioning Ask Maps as a major, newsworthy feature drop with global rollout to build momentum for the AI assistant.",
+      "topics": [
+        "Ask Maps",
+        "AI features",
+        "international expansion"
+      ],
+      "people_partners": [
+        "newsfromgoogle"
+      ],
+      "first_seen_at": "2026-08-07T01:45:50.347552+00:00"
+    },
     {
       "id": "3957091060811910774_336431628",
       "url": "https://www.instagram.com/p/DbqaVqvkU52/",
