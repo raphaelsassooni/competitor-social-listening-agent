@@ -1,6 +1,25 @@
 {
   "waze": [
     {
+      "id": "3958585902191667918_49910135",
+      "url": "https://www.instagram.com/p/DbvuOeRAOrO/",
+      "posted_at": "2026-08-07T16:30:56+00:00",
+      "caption_excerpt": "RIP to all the family computers that perished burning CDs",
+      "media_type": "video",
+      "like_count": 84,
+      "comment_count": 12,
+      "category": "brand/marketing",
+      "narrative": "Nostalgic meme/humor riffing on the shared experience of burning CDs on old family computers, using relatable pop-culture nostalgia to keep the brand feeling culturally in-tune rather than promoting a specific product feature.",
+      "topics": [
+        "nostalgia",
+        "humor",
+        "meme",
+        "CD burning"
+      ],
+      "people_partners": [],
+      "first_seen_at": "2026-08-08T08:23:07.581625+00:00"
+    },
+    {
       "id": "3957857610762643478_49910135",
       "url": "https://www.instagram.com/p/DbtIocBFWgW/",
       "posted_at": "2026-08-06T16:23:36+00:00",
@@ -362,6 +381,29 @@
     }
   ],
   "googlemaps": [
+    {
+      "id": "3958612617479887744_336431628",
+      "url": "https://www.instagram.com/p/Dbv0TO0RJuA/",
+      "posted_at": "2026-08-07T17:34:53+00:00",
+      "caption_excerpt": "Ask Maps is now the easiest way to order food wherever you are.",
+      "media_type": "video",
+      "like_count": 214,
+      "comment_count": 18,
+      "category": "product update",
+      "narrative": "Google Maps is expanding its Ask Maps AI assistant beyond navigation into food ordering, positioning it as a conversational, all-in-one planning tool and rolling it out through POS and delivery partners.",
+      "topics": [
+        "Ask Maps",
+        "food ordering",
+        "AI assistant",
+        "partnerships"
+      ],
+      "people_partners": [
+        "Square",
+        "Toast",
+        "Uber Eats"
+      ],
+      "first_seen_at": "2026-08-08T08:23:07.611452+00:00"
+    },
     {
       "id": "3957736053603226737_12275032352",
       "url": "https://www.instagram.com/p/Dbss_jFxtRx/",

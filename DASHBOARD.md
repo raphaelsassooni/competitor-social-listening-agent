@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-08-07 01:45 UTC_
+_Last updated: 2026-08-08 08:23 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-08-07** — brand/marketing — Nostalgic meme/humor riffing on the shared experience of burning CDs on old family computers, using relatable pop-culture nostalgia to keep the brand feeling culturally in-tune rather than promoting a specific product feature.
+84 likes · 12 comments
+Topics: nostalgia, humor, meme, CD burning
+[View post](https://www.instagram.com/p/DbvuOeRAOrO/)
 
 **2026-08-06** — brand/marketing — Lighthearted, relatable summer-heat humor to keep the brand's voice casual and community-facing.
 39 likes · 2 comments
@@ -109,6 +114,12 @@ People/partners: Minions & Monsters (movie), @minions
 [View post](https://www.instagram.com/p/DZu7EaOD5wG/)
 
 ### Google Maps
+
+**2026-08-07** — product update — Google Maps is expanding its Ask Maps AI assistant beyond navigation into food ordering, positioning it as a conversational, all-in-one planning tool and rolling it out through POS and delivery partners.
+214 likes · 18 comments
+Topics: Ask Maps, food ordering, AI assistant, partnerships
+People/partners: Square, Toast, Uber Eats
+[View post](https://www.instagram.com/p/Dbv0TO0RJuA/)
 
 **2026-08-06** — brand/marketing — Experiential, lifestyle-style content tying a NYC outing to an early-access gifting promo for Google Maps.
 464 likes · 22 comments
