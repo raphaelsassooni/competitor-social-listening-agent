@@ -1,12 +1,17 @@
 # Competitor Watch
 
-_Last updated: 2026-08-08 08:23 UTC_
+_Last updated: 2026-08-09 08:26 UTC_
 
 ## Moovit
 
 _Competitors tracked: Waze, Google Maps, Transit_
 
 ### Waze
+
+**2026-08-08** — community — Playful appreciation post for Waze's volunteer map editor community, framed in a breezy, trend-driven brand voice.
+50 likes · 1 comments
+Topics: community, map editors, brand voice
+[View post](https://www.instagram.com/p/DbyPkyXDc_c/)
 
 **2026-08-07** — brand/marketing — Nostalgic meme/humor riffing on the shared experience of burning CDs on old family computers, using relatable pop-culture nostalgia to keep the brand feeling culturally in-tune rather than promoting a specific product feature.
 84 likes · 12 comments
@@ -106,12 +111,6 @@ Topics: driving features, audience engagement
 Topics: team culture, community, behind the scenes
 People/partners: @jxnbandit, @phntomsoul
 [View post](https://www.instagram.com/p/DXhOPEkiBp4/)
-
-**2026-06-18** — partnership — Waze ties into Illumination's "Minions & Monsters" movie with an in-app Loco-Motive experience ahead of the July 1 theatrical release.
-13,627 likes · 156 comments
-Topics: movie tie-in, in-app feature, entertainment partnership
-People/partners: Minions & Monsters (movie), @minions
-[View post](https://www.instagram.com/p/DZu7EaOD5wG/)
 
 ### Google Maps
 
