@@ -1,6 +1,6 @@
 # Competitor Watch
 
-_Last updated: 2026-09-07 12:44 UTC_
+_Last updated: 2026-09-09 11:32 UTC_
 
 ## Moovit
 
